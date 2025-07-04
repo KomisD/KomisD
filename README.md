@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimos Kompitselidis</h1>
 <h3 align="center">Computer Vision Engineer</h3>
 
-- 🔭 I’m currently working on **At conditional image generation**
-
-- 👯 I’m looking to collaborate on [Small object detection](https://github.com/KomisD/STMOFlow)
-
 - 👨‍💻 All of my projects are available at [https://komisd.github.io/Portfolio-Website/](https://komisd.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **komdimos@gmail.com**
